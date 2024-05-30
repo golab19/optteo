@@ -1,0 +1,3 @@
+[submodule "submodules/optteo"]
+	path = submodules/optteo
+	url = https://github.com/golab19/optteo.git
